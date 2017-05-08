@@ -1,0 +1,10 @@
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\bin\Debug\client.exe
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\bin\Debug\client.pdb
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\bin\Debug\client.xml
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.Form1.resources
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.Resources.resources
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.exe
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.xml
+C:\Users\elhadj\Documents\Visual Studio 2005\Projects\client\client\obj\Debug\client.pdb
