@@ -66,7 +66,7 @@ Partial Class Form1
         Me.Label3.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(655, 418)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(115, 38)
+        Me.Label3.Size = New System.Drawing.Size(132, 38)
         Me.Label3.TabIndex = 4
         Me.Label3.Text = "Username"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -95,7 +95,8 @@ Partial Class Form1
         '
         'print
         '
-        Me.print.Font = New System.Drawing.Font("Arial", 11.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.print.BackColor = System.Drawing.SystemColors.HighlightText
+        Me.print.Font = New System.Drawing.Font("Arial", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.print.Location = New System.Drawing.Point(3, 3)
         Me.print.Name = "print"
         Me.print.ReadOnly = True
